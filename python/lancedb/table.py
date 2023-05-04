@@ -21,6 +21,7 @@ import numpy as np
 import pandas as pd
 from lance import LanceDataset
 import pyarrow as pa
+import pyarrow.fs
 from lance.vector import vec_to_table
 
 from .query import LanceQueryBuilder
@@ -55,7 +56,8 @@ class LanceTable:
 
     def _reset_dataset(self):
         try:
-            del self.__dict__["_dataset"]
+            if "_dataset" in self.__dict__:
+                del self.__dict__["_dataset"]
         except AttributeError:
             pass
 
@@ -153,10 +155,19 @@ class LanceTable:
         -------
         The number of vectors added to the table.
         """
-        data = _sanitize_data(data, self.schema)
+        # TODO: manage table listing and metadata separately
+        schema = None if not self._has_data() else self.schema
+        data = _sanitize_data(data, schema)
         lance.write_dataset(data, self._dataset_uri, mode=mode)
         self._reset_dataset()
         return len(self)
+
+    def _has_data(self):
+        try:
+            self._dataset
+            return True
+        except Exception:
+            return _has_latest_manifest(self._dataset_uri)
 
     def search(self, query: VEC) -> LanceQueryBuilder:
         """Create a search query to find the nearest neighbors
@@ -183,11 +194,22 @@ class LanceTable:
         return LanceQueryBuilder(self, query)
 
     @classmethod
-    def create(cls, db, name, data, schema=None, mode="create"):
+    def create(cls, db, name, data=None, schema=None, mode="create"):
         tbl = LanceTable(db, name)
-        data = _sanitize_data(data, schema)
-        lance.write_dataset(data, tbl._dataset_uri, mode=mode)
+        if data is not None:
+            data = _sanitize_data(data, schema)
+            lance.write_dataset(data, tbl._dataset_uri, mode=mode)
+        else:
+            # If we're not writing data, we have to manually check that the table doesn't exist
+            if mode == "create" and _has_latest_manifest(tbl._dataset_uri):
+                raise ValueError(f"Table {name} already exists")
         return tbl
+
+
+def _has_latest_manifest(dataset_uri: str) -> bool:
+    fs, path = pa.fs.FileSystem.from_uri(dataset_uri)
+    finfo = fs.get_file_info(os.path.join(path, "_latest.manifest"))
+    return finfo.type != pa.fs.FileType.NotFound
 
 
 def _sanitize_schema(data: pa.Table, schema: pa.Schema = None) -> pa.Table:
