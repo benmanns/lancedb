@@ -68,7 +68,9 @@ class EmbeddingFunction:
         if len(self.rate_limiter_kwargs) > 0:
             v = int(sys.version_info.minor)
             if v >= 11:
-                print("WARNING: rate limit only support up to 3.10, proceeding without rate limiter")
+                print(
+                    "WARNING: rate limit only support up to 3.10, proceeding without rate limiter"
+                )
             else:
                 import ratelimiter
 
