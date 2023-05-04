@@ -53,6 +53,8 @@ jobs:
     - name: Install lancedb
       run: |
         pip install -e .
-        pip install pytest
+        pip install pytest black
+    - name: Black
+      run: black --check --diff --no-color --quiet .
     - name: Run tests
       run: pytest -x -v --durations=30 tests
