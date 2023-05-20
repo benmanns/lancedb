@@ -1,10 +1,14 @@
 # Basic LanceDB Functionality
 
+<<<<<<< HEAD
 We'll cover the basics of using LanceDB on your local machine in this section.
 
 ??? info "LanceDB runs embedded on your backend application, so there is no need to run a separate server."
 
       <img src="../assets/lancedb_embedded_explanation.png" width="650px" />
+=======
+We'll cover the basics of using LanceDB on your local machine in this section. LanceDB runs embedded on your backend application, so there is no need to run a separate server.
+>>>>>>> 1205928 (add js to docs)
 
 ## Installation
 
@@ -117,8 +121,11 @@ After a table has been created, you can always add more data to it using
 
 === "Javascript"
       ```javascript
+<<<<<<< HEAD
       await tbl.add([vector: [1.3, 1.4], item: "fizz", price: 100.0},
               {vector: [9.5, 56.2], item: "buzz", price: 200.0}])
+=======
+>>>>>>> 1205928 (add js to docs)
       ```
 
 ## How to search for (approximate) nearest neighbors
@@ -134,7 +141,10 @@ Once you've embedded the query, you can find its nearest neighbors using the fol
 
 === "Javascript"
       ```javascript
+<<<<<<< HEAD
       const query = await tbl.search([100, 100]).limit(2).execute();
+=======
+>>>>>>> 1205928 (add js to docs)
       ```
 
 ## What's next
