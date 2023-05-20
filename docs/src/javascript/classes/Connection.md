@@ -42,6 +42,7 @@ A connection to a LanceDB database.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:41](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L41)
 =======
 [index.ts:41](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L41)
@@ -49,6 +50,9 @@ A connection to a LanceDB database.
 =======
 [index.ts:41](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L41)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:41](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L41)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ## Properties
 
@@ -60,6 +64,7 @@ A connection to a LanceDB database.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:39](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L39)
 =======
 [index.ts:39](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L39)
@@ -67,6 +72,9 @@ A connection to a LanceDB database.
 =======
 [index.ts:39](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L39)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:39](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L39)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -78,6 +86,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:38](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L38)
 =======
 [index.ts:38](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L38)
@@ -85,6 +94,9 @@ ___
 =======
 [index.ts:38](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L38)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:38](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L38)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ## Accessors
 
@@ -100,6 +112,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:46](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L46)
 =======
 [index.ts:46](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L46)
@@ -107,6 +120,9 @@ ___
 =======
 [index.ts:46](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L46)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:46](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L46)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ## Methods
 
@@ -129,6 +145,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:66](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L66)
 =======
 [index.ts:66](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L66)
@@ -136,6 +153,9 @@ ___
 =======
 [index.ts:66](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L66)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:66](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L66)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -158,6 +178,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:71](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L71)
 =======
 [index.ts:71](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L71)
@@ -165,6 +186,9 @@ ___
 =======
 [index.ts:71](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L71)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:71](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L71)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -188,6 +212,7 @@ Open a table in the database.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:61](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L61)
 =======
 [index.ts:61](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L61)
@@ -195,6 +220,9 @@ Open a table in the database.
 =======
 [index.ts:61](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L61)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:61](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L61)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -212,6 +240,7 @@ Get the names of all tables in the database.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:53](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L53)
 =======
 [index.ts:53](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L53)
@@ -219,3 +248,6 @@ Get the names of all tables in the database.
 =======
 [index.ts:53](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L53)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:53](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L53)
+>>>>>>> 2c27003 (add js API doc generation)

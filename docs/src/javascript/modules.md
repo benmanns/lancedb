@@ -40,6 +40,7 @@ Connect to a LanceDB instance at the given URI
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:30](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L30)
 =======
 [index.ts:30](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L30)
@@ -47,3 +48,6 @@ Connect to a LanceDB instance at the given URI
 =======
 [index.ts:30](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L30)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:30](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L30)
+>>>>>>> 2c27003 (add js API doc generation)

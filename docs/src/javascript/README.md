@@ -52,9 +52,13 @@ To build documentation
 
 ```bash
 npx typedoc --plugin typedoc-plugin-markdown --out ../docs/src/javascript src/index.ts
+<<<<<<< HEAD
 ```
 <<<<<<< HEAD
 =======
 >>>>>>> 89888ec (add js API doc generation)
 =======
 >>>>>>> 8ff59da (update links + modal example)
+=======
+```
+>>>>>>> 2c27003 (add js API doc generation)

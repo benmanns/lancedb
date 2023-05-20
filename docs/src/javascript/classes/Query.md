@@ -44,6 +44,7 @@ A builder for nearest neighbor queries for LanceDB.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:131](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L131)
 =======
 [index.ts:131](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L131)
@@ -51,6 +52,9 @@ A builder for nearest neighbor queries for LanceDB.
 =======
 [index.ts:131](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L131)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:131](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L131)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ## Properties
 
@@ -62,6 +66,7 @@ A builder for nearest neighbor queries for LanceDB.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:127](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L127)
 =======
 [index.ts:127](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L127)
@@ -69,6 +74,9 @@ A builder for nearest neighbor queries for LanceDB.
 =======
 [index.ts:127](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L127)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:127](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L127)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -80,6 +88,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:128](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L128)
 =======
 [index.ts:128](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L128)
@@ -87,6 +96,9 @@ ___
 =======
 [index.ts:128](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L128)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:128](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L128)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -98,6 +110,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:124](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L124)
 =======
 [index.ts:124](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L124)
@@ -105,6 +118,9 @@ ___
 =======
 [index.ts:124](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L124)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:124](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L124)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -116,6 +132,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:129](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L129)
 =======
 [index.ts:129](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L129)
@@ -123,6 +140,9 @@ ___
 =======
 [index.ts:129](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L129)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:129](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L129)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -134,6 +154,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:126](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L126)
 =======
 [index.ts:126](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L126)
@@ -141,6 +162,9 @@ ___
 =======
 [index.ts:126](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L126)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:126](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L126)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -152,6 +176,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:123](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L123)
 =======
 [index.ts:123](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L123)
@@ -159,6 +184,9 @@ ___
 =======
 [index.ts:123](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L123)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:123](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L123)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -170,6 +198,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:125](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L125)
 =======
 [index.ts:125](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L125)
@@ -177,6 +206,9 @@ ___
 =======
 [index.ts:125](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L125)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:125](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L125)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -188,6 +220,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:122](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L122)
 =======
 [index.ts:122](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L122)
@@ -195,6 +228,9 @@ ___
 =======
 [index.ts:122](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L122)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:122](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L122)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ## Methods
 
@@ -218,6 +254,7 @@ Execute the query and return the results as an Array of Objects
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:154](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L154)
 =======
 [index.ts:154](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L154)
@@ -225,6 +262,9 @@ Execute the query and return the results as an Array of Objects
 =======
 [index.ts:154](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L154)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:154](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L154)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -246,6 +286,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:146](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L146)
 =======
 [index.ts:146](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L146)
@@ -253,6 +294,9 @@ ___
 =======
 [index.ts:146](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L146)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:146](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L146)
+>>>>>>> 2c27003 (add js API doc generation)
 
 ___
 
@@ -274,6 +318,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:141](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L141)
 =======
 [index.ts:141](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L141)
@@ -281,3 +326,6 @@ ___
 =======
 [index.ts:141](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L141)
 >>>>>>> 8ff59da (update links + modal example)
+=======
+[index.ts:141](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L141)
+>>>>>>> 2c27003 (add js API doc generation)
