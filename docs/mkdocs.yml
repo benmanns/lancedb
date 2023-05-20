@@ -40,10 +40,13 @@ nav:
 - Embeddings: embedding.md
 - Indexing: ann_indexes.md
 - Integrations: integrations.md
+<<<<<<< HEAD
 - Full-text search: fts.md
 - Examples:
   - YouTube Transcript Search using OpenAI: notebooks/youtube_transcript_search.ipynb
   - Documentation QA Bot using LangChain: notebooks/code_qa_bot.ipynb
+=======
+>>>>>>> 89888ec (add js API doc generation)
 - API references:
   - Python API: python/python.md
   - Javascript API: javascript/modules.md

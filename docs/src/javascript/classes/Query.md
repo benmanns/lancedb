@@ -42,7 +42,11 @@ A builder for nearest neighbor queries for LanceDB.
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:131](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L131)
+=======
+[index.ts:131](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L131)
+>>>>>>> 89888ec (add js API doc generation)
 
 ## Properties
 
@@ -52,7 +56,11 @@ A builder for nearest neighbor queries for LanceDB.
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:127](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L127)
+=======
+[index.ts:127](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L127)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -62,7 +70,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:128](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L128)
+=======
+[index.ts:128](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L128)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -72,7 +84,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:124](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L124)
+=======
+[index.ts:124](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L124)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -82,7 +98,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:129](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L129)
+=======
+[index.ts:129](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L129)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -92,7 +112,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:126](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L126)
+=======
+[index.ts:126](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L126)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -102,7 +126,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:123](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L123)
+=======
+[index.ts:123](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L123)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -112,7 +140,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:125](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L125)
+=======
+[index.ts:125](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L125)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -122,7 +154,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:122](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L122)
+=======
+[index.ts:122](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L122)
+>>>>>>> 89888ec (add js API doc generation)
 
 ## Methods
 
@@ -144,7 +180,11 @@ Execute the query and return the results as an Array of Objects
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:154](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L154)
+=======
+[index.ts:154](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L154)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -164,7 +204,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:146](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L146)
+=======
+[index.ts:146](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L146)
+>>>>>>> 89888ec (add js API doc generation)
 
 ___
 
@@ -184,4 +228,8 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [index.ts:141](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L141)
+=======
+[index.ts:141](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L141)
+>>>>>>> 89888ec (add js API doc generation)
