@@ -13,13 +13,20 @@
 import os
 import random
 
+<<<<<<< HEAD
 import lancedb.fts
+=======
+>>>>>>> f485378 (Basic full text search capabilities (#62))
 import numpy as np
 import pandas as pd
 import pytest
 import tantivy
 
 import lancedb as ldb
+<<<<<<< HEAD
+=======
+import lancedb.fts
+>>>>>>> f485378 (Basic full text search capabilities (#62))
 
 
 @pytest.fixture
