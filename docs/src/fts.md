@@ -17,6 +17,10 @@ To use full text search, you must install the fts optional dependencies:
 `pip install lancedb[fts]`
 >>>>>>> f485378 (Basic full text search capabilities (#62))
 
+To use full text search, you must install the fts optional dependencies:
+
+`pip install lancedb[fts]`
+
 
 ## Quickstart
 

@@ -16,7 +16,11 @@ import random
 <<<<<<< HEAD
 import lancedb.fts
 =======
+<<<<<<< HEAD
 >>>>>>> f485378 (Basic full text search capabilities (#62))
+=======
+>>>>>>> 83ad3e5 (Basic full text search capabilities (#62))
+>>>>>>> dc5f137 (Basic full text search capabilities (#62))
 import numpy as np
 import pandas as pd
 import pytest
@@ -26,7 +30,11 @@ import lancedb as ldb
 <<<<<<< HEAD
 =======
 import lancedb.fts
+<<<<<<< HEAD
 >>>>>>> f485378 (Basic full text search capabilities (#62))
+=======
+>>>>>>> 83ad3e5 (Basic full text search capabilities (#62))
+>>>>>>> dc5f137 (Basic full text search capabilities (#62))
 
 
 @pytest.fixture

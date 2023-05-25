@@ -157,7 +157,11 @@ class LanceFtsQueryBuilder(LanceQueryBuilder):
                 "Please install tantivy-py `pip install tantivy@git+https://github.com/quickwit-oss/tantivy-py#164adc87e1a033117001cf70e38c82a53014d985` to use the full text search feature."
 =======
                 "You need to install the `lancedb[fts]` extra to use this method."
+<<<<<<< HEAD
 >>>>>>> f485378 (Basic full text search capabilities (#62))
+=======
+>>>>>>> 83ad3e5 (Basic full text search capabilities (#62))
+>>>>>>> dc5f137 (Basic full text search capabilities (#62))
             )
 
         from .fts import search_index
