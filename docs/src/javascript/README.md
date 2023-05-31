@@ -44,11 +44,17 @@ To run the linter and have it automatically fix all errors
 npm run lint -- --fix
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8ff59da (update links + modal example)
 
 To build documentation
 
 ```bash
 npx typedoc --plugin typedoc-plugin-markdown --out ../docs/src/javascript src/index.ts
 ```
+<<<<<<< HEAD
 =======
 >>>>>>> 89888ec (add js API doc generation)
+=======
+>>>>>>> 8ff59da (update links + modal example)

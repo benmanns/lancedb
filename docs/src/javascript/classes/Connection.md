@@ -41,10 +41,14 @@ A connection to a LanceDB database.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:41](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L41)
 =======
 [index.ts:41](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L41)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:41](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L41)
+>>>>>>> 8ff59da (update links + modal example)
 
 ## Properties
 
@@ -55,10 +59,14 @@ A connection to a LanceDB database.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:39](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L39)
 =======
 [index.ts:39](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L39)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:39](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L39)
+>>>>>>> 8ff59da (update links + modal example)
 
 ___
 
@@ -69,10 +77,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:38](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L38)
 =======
 [index.ts:38](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L38)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:38](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L38)
+>>>>>>> 8ff59da (update links + modal example)
 
 ## Accessors
 
@@ -87,10 +99,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:46](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L46)
 =======
 [index.ts:46](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L46)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:46](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L46)
+>>>>>>> 8ff59da (update links + modal example)
 
 ## Methods
 
@@ -112,10 +128,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:66](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L66)
 =======
 [index.ts:66](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L66)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:66](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L66)
+>>>>>>> 8ff59da (update links + modal example)
 
 ___
 
@@ -137,10 +157,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:71](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L71)
 =======
 [index.ts:71](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L71)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:71](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L71)
+>>>>>>> 8ff59da (update links + modal example)
 
 ___
 
@@ -163,10 +187,14 @@ Open a table in the database.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:61](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L61)
 =======
 [index.ts:61](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L61)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:61](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L61)
+>>>>>>> 8ff59da (update links + modal example)
 
 ___
 
@@ -183,7 +211,11 @@ Get the names of all tables in the database.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:53](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L53)
 =======
 [index.ts:53](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L53)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:53](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L53)
+>>>>>>> 8ff59da (update links + modal example)

@@ -41,10 +41,14 @@ A table in a LanceDB database.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:85](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L85)
 =======
 [index.ts:85](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L85)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:85](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L85)
+>>>>>>> 8ff59da (update links + modal example)
 
 ## Properties
 
@@ -55,10 +59,14 @@ A table in a LanceDB database.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:83](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L83)
 =======
 [index.ts:83](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L83)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:83](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L83)
+>>>>>>> 8ff59da (update links + modal example)
 
 ___
 
@@ -69,10 +77,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:82](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L82)
 =======
 [index.ts:82](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L82)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:82](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L82)
+>>>>>>> 8ff59da (update links + modal example)
 
 ## Accessors
 
@@ -87,10 +99,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:90](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L90)
 =======
 [index.ts:90](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L90)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:90](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L90)
+>>>>>>> 8ff59da (update links + modal example)
 
 ## Methods
 
@@ -115,10 +131,14 @@ The number of rows added to the table
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:109](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L109)
 =======
 [index.ts:109](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L109)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:109](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L109)
+>>>>>>> 8ff59da (update links + modal example)
 
 ___
 
@@ -139,10 +159,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:113](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L113)
 =======
 [index.ts:113](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L113)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:113](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L113)
+>>>>>>> 8ff59da (update links + modal example)
 
 ___
 
@@ -165,7 +189,11 @@ Create a search query to find the nearest neighbors of the given query vector.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [index.ts:98](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L98)
 =======
 [index.ts:98](https://github.com/lancedb/lancedb/blob/e234a3e/node/src/index.ts#L98)
 >>>>>>> 89888ec (add js API doc generation)
+=======
+[index.ts:98](https://github.com/lancedb/lancedb/blob/6d6e80b/node/src/index.ts#L98)
+>>>>>>> 8ff59da (update links + modal example)
