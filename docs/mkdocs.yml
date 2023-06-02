@@ -42,6 +42,7 @@ nav:
 - Integrations: integrations.md
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Full-text search: fts.md
 - Examples:
   - YouTube Transcript Search using OpenAI: notebooks/youtube_transcript_search.ipynb
@@ -50,6 +51,9 @@ nav:
 =======
 >>>>>>> 89888ec (add js API doc generation)
 =======
+=======
+- Full-text search: fts.md
+>>>>>>> 82c32fe (fix nav)
 - Examples:
   - YouTube Transcript Search using OpenAI: notebooks/youtube_transcript_search.ipynb
   - Documentation QA Bot using LangChain: notebooks/code_qa_bot.ipynb
